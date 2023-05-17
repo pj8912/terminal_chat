@@ -15,6 +15,10 @@ git clone https://github.com/pj8912/terminal_chat.git
 ```
 myenv
 ```
+- Activate venv `myenv`
+```
+source myenv/bin/activate
+```
 ### Install Requirements
 ```
 pip install -r requirements.txt
