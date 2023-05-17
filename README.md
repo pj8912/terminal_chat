@@ -1,8 +1,8 @@
 # terminal_chat
+
+![new_ter](https://github.com/pj8912/terminal_chat/assets/59218902/cc16ea22-a926-4d18-991c-c8695fad2845)
 Terminal Chat with BARD using [BARD API](https://github.com/dsdanielpark/Bard-API)
 - Get your BARD_API_KEY as instructed in the link above.
-
-![image](https://github.com/pj8912/terminal_chat/assets/59218902/b7548d55-f5a0-4fc8-a77f-029aa3037e9a)
 
 
 ## Install 
@@ -33,6 +33,8 @@ BARD_API_KEY=your_bardapi_key
 ```
 python app.py
 ```
+![image](https://github.com/pj8912/terminal_chat/assets/59218902/b7548d55-f5a0-4fc8-a77f-029aa3037e9a)
+
 
 ## LICENSE
 This project is licensed under the MIT License.
