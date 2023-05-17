@@ -2,11 +2,8 @@ import os
 from dotenv import load_dotenv
 from bardapi import Bard
 load_dotenv()
-
 os.environ['_BARD_API_KEY'] = os.getenv("BARD_API_KEY")
-
 bard = Bard()
-
 print('\n','*'*50,'Terminal Chat with BARD','*'*50, '\n')
 try:
     while True:

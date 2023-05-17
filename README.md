@@ -10,6 +10,11 @@ Terminal Chat with BARD using [BARD API](https://github.com/dsdanielpark/Bard-AP
 ```
 git clone https://github.com/pj8912/terminal_chat.git
 ```
+### Create Virtual Environment
+- Checkout [myenv](https://github.com/pj8912/myenv) to automate virtual env creation
+```
+myenv
+```
 ### Install Requirements
 ```
 pip install -r requirements.txt
